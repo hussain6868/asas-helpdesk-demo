@@ -109,8 +109,10 @@ export default function AuthPage() {
           />
         </ul>
       </section>
-
-      {/* Form panel */}
+          
+      {/* Form panel */
+      
+      /*try*/}
       <section className="flex flex-1 items-center justify-center px-6 py-10 lg:px-12">
         <div className="w-full max-w-sm">
           <Brand className="mb-8 lg:hidden" />
